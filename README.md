@@ -26,7 +26,7 @@ By the end of this course, users will have a hands-on exposure to use spanner to
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Basic knowledge 
+Basic knowledge of RDBMS
 ### Technical Requirements
 This course has the following software requirements:<br/>
 Minimum Hardware Requirements
